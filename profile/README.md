@@ -1,7 +1,3 @@
-# 🧪 Ephemeral AI Lab
-
-> ⚡ Building the infrastructure for ephemeral agents and durable results.
-
 ## ⏳ Ephemerality: Taking Multi-Agent Scale Beyond Imagination
 
 Ephemerality is our core belief.
